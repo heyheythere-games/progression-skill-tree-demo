@@ -5,8 +5,8 @@ Play the demo of **RPG Skill Tree & XP System**, an Unreal Engine plugin by heyh
 ## Download
 
 - [Latest release](../../releases/latest): `ProgressionDemo-Win64.zip`, for Windows 10 or 11, 64-bit.
-- Unzip it anywhere and run `ProgressionDemo.exe`.
-- The demo shows the plugin's version 1.1.0, the same one sold on Fab.
+- Unzip it anywhere and run `ProgressionDemo12.exe`.
+- The demo shows the plugin's version 1.2.0, the same one sold on Fab.
 
 ## Controls
 
@@ -15,11 +15,15 @@ Play the demo of **RPG Skill Tree & XP System**, an Unreal Engine plugin by heyh
 | Move | W A S D | Left stick |
 | Look | Mouse | Right stick |
 | Jump | Space | A |
-| Punch a dummy | Left click | RT |
-| Gather, or use the respec stone | E | X |
-| Dash, once learned | Shift | B |
-| Skill trees | K | View |
+| Run | Shift, held | Left stick click, held |
+| Skills | Tab, K | View |
+| Attributes | C | Menu |
+| Punch, gather, the respec stone, dash | As each prompt shows |  |
+| Controls card | I | D-pad down |
+| Guide | G | D-pad right |
 | Save, load | F5, F9 |  |
+| Host, join | F1, F2 |  |
+| Start over | R, twice | D-pad up, twice |
 
 ## More
 
